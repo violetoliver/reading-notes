@@ -5,7 +5,7 @@
 This a collection of my readings for CodeFellows.
 
 ### About Me
-I'm a dog mom to two Cavapoos living in Seattle.:dog: :dog:
+I'm a dog mom to two Cavapoos living in Seattle. :dog: :dog:
 
 [My Github](https://github.com/violetoliver).
 
