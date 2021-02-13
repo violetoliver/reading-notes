@@ -15,3 +15,6 @@ The most important features to look for in a text editor:
 4. the ability to choose from a healthy selection of extensions available when you need them (basically allowing plugins)
 
 ocument in your reading-notes the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code.
+
+
+[<=== back to Main Page](readme.md)
