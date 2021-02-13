@@ -2,7 +2,7 @@
 
 A text editor allows you to write and manage text that you use to build your website. You can download and install a text editor, or use one from a web browser.
 
-# The most important features to look for in a text editor:
+### The most important features to look for in a text editor:
 1. code completion (suggestions of how to finish your code)
 
 2. syntax highlighting (takes your text and changes the color based on the item to make it easier to read.)
