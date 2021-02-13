@@ -21,6 +21,7 @@ I'm a dog mom to two Cavapoos living in Seattle.
 
 
 ### Table of Contents
+- [Growth Mindset](growth.md)
 - [Markdown Reading](markdown.md)
 - [Coders Computer](coderscomputer.md)
 - [Text Editors](texteditors.md)
