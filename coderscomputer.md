@@ -1,1 +1,1 @@
-notes on coders computer
+#Cheat Sheet for Terminal
