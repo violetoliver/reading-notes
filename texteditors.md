@@ -16,5 +16,6 @@ If you use the basic text eitor that comes with your computer it will only show 
 I liked the example the readings gave comparing IDEs to outlook. IDEs can do a lot of things, including edit text, file manager, compiler, and a debugger in one.
 
 
+The command line is basically the written text telling the computer what to do. 
 
 [Back to Main Page](README.md)
