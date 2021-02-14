@@ -50,7 +50,8 @@ To begin with, we have to understand that the file system under linux is a hiera
 
 **.. (dotdot)** This is a reference to the parent directory.
 
-### Hidden files and directories. If the file starts with a "." than it's hidden.
+### Hidden files and directories.
+If the file starts with a "." than it's hidden.
 
 
 [Back to Main Page](README.md)
